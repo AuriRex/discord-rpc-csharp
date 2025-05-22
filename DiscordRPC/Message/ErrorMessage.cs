@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+﻿using Clonesoft.Json;
 
 namespace DiscordRPC.Message
 {

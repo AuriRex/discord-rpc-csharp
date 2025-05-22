@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Clonesoft.Json;
 using DiscordRPC.RPC.Payload;
-using Newtonsoft.Json;
 
 namespace DiscordRPC.RPC.Commands
 {

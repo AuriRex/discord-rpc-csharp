@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using DiscordRPC.Helper;
 using System.Text;
+using Clonesoft.Json;
 using DiscordRPC.Exceptions;
 
 namespace DiscordRPC

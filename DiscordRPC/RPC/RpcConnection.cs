@@ -6,7 +6,7 @@ using DiscordRPC.RPC.Payload;
 using System;
 using System.Collections.Generic;
 using System.Threading;
-using Newtonsoft.Json;
+using Clonesoft.Json;
 using DiscordRPC.Logging;
 using DiscordRPC.Events;
 

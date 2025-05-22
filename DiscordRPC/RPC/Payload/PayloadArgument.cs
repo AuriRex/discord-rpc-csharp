@@ -1,6 +1,5 @@
-﻿using DiscordRPC.Converters;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+﻿using Clonesoft.Json;
+using Clonesoft.Json.Linq;
 
 namespace DiscordRPC.RPC.Payload
 {

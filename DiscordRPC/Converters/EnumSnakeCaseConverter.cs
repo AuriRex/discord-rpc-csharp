@@ -1,8 +1,7 @@
-﻿using DiscordRPC.Helper;
-using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Linq;
 using System.Reflection;
+using Clonesoft.Json;
 
 namespace DiscordRPC.Converters
 {
